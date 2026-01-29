@@ -22,10 +22,10 @@
 
 ## 📸 Robot Overview
 
-### Front View
+### Front View & PCB
 <p align="center">
   <img src="Media/image5.jpeg" width="300">
-### Custom PCB
+
   <img src="Media/image3.jpeg" width="300">
 </p>
 
