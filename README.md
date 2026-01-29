@@ -25,10 +25,7 @@
 ### Front View
 <p align="center">
   <img src="Media/image5.jpeg" width="300">
-</p>
-
 ### Custom PCB
-<p align="center">
   <img src="Media/image3.jpeg" width="300">
 </p>
 
@@ -76,7 +73,7 @@ This architecture enables **real-time, low-latency, deterministic control**.
 
 ## 🧑‍🤝‍🧑 Team Outlaws
 
-<p align="center">
+<p>
   <img src="Media/image4.jpeg" width="300">
 </p>
 
