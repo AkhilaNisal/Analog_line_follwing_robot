@@ -16,10 +16,10 @@
 
 <p align="center">
   <a href="Media/Media1.mp4">
-    <img src="Media/Media1.gif" width="300">
+    <img src="Media/Media1.gif" width="200">
   </a>
   <a href="Media/circle.mp4">
-    <img src="Media/circle.gif" width="300">
+    <img src="Media/circle.gif" width="200">
   </a>
 </p>
 ---
@@ -28,9 +28,9 @@
 
 ### Front View & PCB
 <p align="center">
-  <img src="Media/image5.jpeg" width="300">
+  <img src="Media/image5.jpeg" width="200">
 
-  <img src="Media/image3.jpeg" width="300">
+  <img src="Media/image3.jpeg" width="200">
 </p>
 
 ---
@@ -78,7 +78,7 @@ This architecture enables **real-time, low-latency, deterministic control**.
 ## 🧑‍🤝‍🧑 Team Outlaws
 
 <p>
-  <img src="Media/image4.jpeg" width="300">
+  <img src="Media/image4.jpeg" width="400">
 </p>
 
 | Name | Index No | Contribution |
