@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="Media/Media1.mp4">
-    <img src="Media/Media1.mp4" width="300">
+    <img src="Media/Media1.gif" width="300">
   </a>
 </p>
 ---
