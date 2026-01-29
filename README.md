@@ -24,12 +24,12 @@
 
 ### Front View
 <p align="center">
-  <img src="Media/image5.jpg" width="450">
+  <img src="Media/image5.jpeg" width="450">
 </p>
 
 ### Custom PCB
 <p align="center">
-  <img src="Media/image3.jpg" width="500">
+  <img src="Media/image3.jpeg" width="500">
 </p>
 
 ---
@@ -77,7 +77,7 @@ This architecture enables **real-time, low-latency, deterministic control**.
 ## 🧑‍🤝‍🧑 Team Outlaws
 
 <p align="center">
-  <img src="Media/image4.jpg" width="550">
+  <img src="Media/image4.jpeg" width="550">
 </p>
 
 | Name | Index No | Contribution |
